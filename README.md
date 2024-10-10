@@ -3,10 +3,10 @@ Soy un desarrollador apasionado con un gran interés en la tecnología y el apre
 
 ```javascript
 const aboutMe = {
-    code: ["HTML", "CSS", "JavaScript", "PHP", "Python", "Java"],
+    code: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
     technologies: {
         FrontEnd: {
-            js: ["React", "React-Native", "Astro", "Angular"],
+            js: ["React", "React-Native", "Angular"],
             css: ["Tailwind", "Bootstrap"]
         },
         BackEnd: {

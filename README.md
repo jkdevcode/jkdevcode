@@ -43,7 +43,7 @@ const aboutMe = {
 ## Conéctate Conmigo
 ¡No dudes en contactarme si quieres colaborar en un proyecto, necesitas algún consejo o simplemente quieres charlar sobre tecnología!
 
-![Snake Animation](https://github.com/josedvargas31/snake_animation/raw/output/snake.svg)
+<img src="https://raw.githubusercontent.com/josedvargas31/josedvargas31/output/snake.svg" alt="Snake animation" />
 
 ###
 

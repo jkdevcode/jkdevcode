@@ -10,6 +10,7 @@ const aboutMe = {
             css: ["Tailwind", "Bootstrap"]
         },
         BackEnd: {
+            php: ["Laravel"],
             js: ["NodeJS", "Express"],
         },
         DataBases: ["MySQL", "NoSQL"],

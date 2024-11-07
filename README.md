@@ -39,7 +39,7 @@ const aboutMe = {
 
 | Estadísticas de GitHub | Lenguajes Más Usados |
 | --- | --- |
-| ![Estadísticas de GitHub de Darío](https://github-readme-stats.vercel.app/api?username=josedvargas31&show_icons=true&theme=radical) | ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josedvargas31&layout=compact&theme=radical) |
+| ![Estadísticas de GitHub de Darío](https://github-readme-stats.vercel.app/api?username=josedvargas31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josedvargas31&layout=compact&theme=radical) |
 
 ## Conéctate Conmigo
 ¡No dudes en contactarme si quieres colaborar en un proyecto, necesitas algún consejo o simplemente quieres charlar sobre tecnología!

@@ -13,6 +13,7 @@ const aboutMe = {
         BackEnd: {
             php: ["Laravel"],
             js: ["NodeJS", "Express"],
+            ts: ["NestJS"],
         },
         DataBases: ["MySQL", "NoSQL"],
         Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code", "Android Studio"],

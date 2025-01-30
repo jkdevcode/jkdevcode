@@ -37,22 +37,24 @@ const aboutMe = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dajozavargas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-jose-zamora-vargas-32b9aa318/)
 
-## Estadísticas de GitHub y Lenguajes Más Usados
+## Github Stats 🎯
 
-| Estadísticas de GitHub | Lenguajes Más Usados |
-| --- | --- |
-| ![Estadísticas de GitHub de Darío](https://github-readme-stats.vercel.app/api?username=josedvargas31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josedvargas31&layout=compact&theme=radical) |
-
-## Conéctate Conmigo
-¡No dudes en contactarme si quieres colaborar en un proyecto, necesitas algún consejo o simplemente quieres charlar sobre tecnología!
+<p align="center">
+      <img align="center"src="https://github-readme-stats.vercel.app/api?username=josedvargas31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josedvargas31&theme=dark" alt="fxckcode" />
+</p>
 
 ![Snake Animation](https://github.com/josedvargas31/snake_animation/raw/output/snake.svg)
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/josedvargas31/count.svg?" />
 </div>
+
+## 🧠 Languages I use the most:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josedvargas31&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/josedvargas31/github-readme-stats)
 
 ###
 

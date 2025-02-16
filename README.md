@@ -40,21 +40,21 @@ const aboutMe = {
 ## Github Stats 🎯
 
 <p align="center">
-      <img align="center"src="https://github-readme-stats.vercel.app/api?username=josedvargas31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+      <img align="center"src="https://github-readme-stats.vercel.app/api?username=jkdevcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josedvargas31&theme=dark" alt="josedvargas31" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkdevcode&theme=dark" alt="jkdevcode" />
 </p>
 
-![Snake Animation](https://github.com/josedvargas31/snake_animation/raw/output/snake.svg)
+![Snake Animation](https://github.com/jkdevcode/snake_animation/raw/output/snake.svg)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/josedvargas31/count.svg?" />
+  <img src="https://profile-counter.glitch.me/jkdevcode/count.svg?" />
 </div>
 
 ## 🧠 Languages I use the most:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josedvargas31&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/josedvargas31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevcode&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jkdevcode/github-readme-stats)
 
 ###
 

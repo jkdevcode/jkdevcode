@@ -1,6 +1,4 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-# 👋 Hola, soy Darío José Zamora Vargas
-Soy un desarrollador apasionado con un gran interés en la tecnología y el aprendizaje continuo. Disfruto resolviendo problemas complejos y colaborando con otros para crear soluciones de software increíbles.
 
 ```javascript
 const aboutMe = {
@@ -23,20 +21,6 @@ const aboutMe = {
 };
 ```
 
-### 👀 Intereses
-- **Desarrollo Web**: Construcción de aplicaciones web responsivas y dinámicas.
-- **Aprendizaje Automático**: Exploración de datos y creación de modelos predictivos.
-- **Ciberseguridad**: Asegurando que los sistemas sean seguros y los datos estén protegidos.
-
-### 🌱 Actualmente Aprendiendo
-- **JavaScript Avanzado**: Mejorando mis habilidades en frameworks y bibliotecas modernas de JavaScript.
-- **Computación en la Nube**: Obteniendo experiencia práctica con servicios en la nube.
-- **Ciberseguridad**: Explorando conceptos fundamentales de ciberseguridad, incluyendo la protección de sistemas y redes, criptografía, y la gestión de vulnerabilidades. Estoy aprendiendo sobre las mejores prácticas para asegurar aplicaciones web y la implementación de medidas de seguridad efectivas para proteger los datos y la privacidad de los usuarios.
-
-### 📫 Cómo Contactarme
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dajozavargas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-jose-zamora-vargas-32b9aa318/)
-
 ## Github Stats 🎯
 
 <p align="center">
@@ -56,6 +40,14 @@ const aboutMe = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevcode&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jkdevcode/github-readme-stats)
 
-###
+### ⌨ My favorite IDEs and code editors:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 💻 My operating systems:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 📫 Contact me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dajozavargas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-jose-zamora-vargas-32b9aa318/)
 
 ---

@@ -51,5 +51,7 @@ const aboutMe = {
 ### 📫 Contact me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dajozavargas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-jose-zamora-vargas-32b9aa318/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jkdevcode/)
+
 
 ---

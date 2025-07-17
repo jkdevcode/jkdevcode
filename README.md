@@ -17,8 +17,9 @@ const aboutMe = {
         Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code", "Android Studio"],
         OS: ["Ubuntu Server"]
     },
-    currentOccupation: ["Estudiante de Análisis y Desarrollo de Software - Desarrollador Full-Stack"]
+    currentOccupation: ["Desarrollador Full-Stack | Transforming ideas into code"]
 };
+
 ```
 
 ## Github Stats 🎯
@@ -30,11 +31,11 @@ const aboutMe = {
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkdevcode&theme=dark" alt="jkdevcode" />
 </p>
 
-![Snake Animation](https://github.com/jkdevcode/snake_animation/raw/output/snake.svg)
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jkdevcode/count.svg?" />
-</div>
+### 🐍 Recent activity
+
+![Snake Animation](https://github.com/jkdevcode/snake_animation/raw/output/snake.svg)
 
 ## 🧠 Languages I use the most:
 

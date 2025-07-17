@@ -31,9 +31,8 @@ const aboutMe = {
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkdevcode&theme=dark" alt="jkdevcode" />
 </p>
 
----
 
-### 🐍 Recent activity
+## 🐍 Recent activity
 
 ![Snake Animation](https://github.com/jkdevcode/snake_animation/raw/output/snake.svg)
 

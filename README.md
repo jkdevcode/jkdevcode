@@ -14,8 +14,8 @@ const aboutMe = {
             ts: ["NestJS"],
         },
         DataBases: ["MySQL", "NoSQL"],
-        Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code", "Android Studio"],
-        OS: ["Ubuntu Server"]
+        Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code"],
+        OS: ["Ubuntu Server", "Linux Mint"]
     },
     currentOccupation: ["Desarrollador Full-Stack | Transforming ideas into code"]
 };

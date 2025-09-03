@@ -17,7 +17,7 @@ const aboutMe = {
         Tools: ["Figma", "Excalidraw", "Postman", "Dia", "Visual Studio Code"],
         OS: ["Ubuntu Server", "Linux Mint"]
     },
-    currentOccupation: ["Desarrollador Full-Stack | Transforming ideas into code"]
+    currentOccupation: ["Desarrollador Full-Stack Backend | Transforming ideas into code"]
 };
 
 ```

@@ -25,3 +25,8 @@ const aboutMe = {
       "Writing clean and maintainable code"
     ]
 };
+```
+
+## 📌 Pinned Repositories
+
+Take a look at my most outstanding repositories.

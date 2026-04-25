@@ -2,31 +2,31 @@
 
 ## 👋🏻 Hi, I'm Dario
 
-Fullstack Developer focused on building practical web applications using modern frontend and solid backend technologies.
-I enjoy turning ideas into real, functional solutions.
+Backend Developer focused on building APIs and server-side applications using Node.js and NestJS.
 
-```javascript
-const aboutMe = {
-    code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    technologies: {
-        FrontEnd: {
-            js: ["React", "React-Native"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        BackEnd: {
-            js: ["NodeJS", "Express"],
-            ts: ["NestJS"],
-        },
-        DataBases: ["MySQL", "MongoDB"],
-    },
-    currentFocus: [
-      "Building fullstack applications",
-      "Improving backend architecture",
-      "Writing clean and maintainable code"
-    ]
-};
-```
+I enjoy developing functional solutions, working on backend logic, and turning ideas into real applications. I use AI as a development tool to speed up workflows while keeping control over the implementation.
 
-## 📌 Pinned Repositories
+---
 
-Take a look at my most outstanding repositories.
+## ⚙️ Stack
+
+- **Backend:** Node.js, NestJS, Express
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker (learning), AI-assisted development
+- **Frontend (secondary):** React, TailwindCSS
+
+---
+
+## 🚀 Current Focus
+
+- Building backend applications  
+- Improving programming logic  
+- Writing clean and maintainable code  
+- Learning better backend practices  
+
+---
+
+## 📌 Projects
+
+Check my pinned repositories to see real implementations of APIs, backend systems, and fullstack applications.
+

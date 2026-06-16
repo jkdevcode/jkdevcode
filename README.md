@@ -33,15 +33,15 @@ I enjoy developing functional solutions, working on backend logic, and turning i
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/jkdevcode/github-pacman/output/pacman-contribution-graph.svg"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 </picture>
 

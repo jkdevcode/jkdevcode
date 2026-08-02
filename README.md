@@ -24,13 +24,14 @@ I use AI as a development tool to accelerate workflows while keeping full contro
 
 ---
 
-## ⚙️ Stack
-
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, Docker, GitHub Actions, CI/CD, Nginx
-- **Frontend (secondary):** React, TypeScript, TailwindCSS
-
+## stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 ---
 
 ## 🎯 Current Focus
@@ -40,6 +41,7 @@ I use AI as a development tool to accelerate workflows while keeping full contro
 - Exploring SaaS product development
 - Improving DevOps and cloud deployment skills
 - Writing clean, maintainable, and scalable code
+- Contributing to open-source projects
 
 ---
 
@@ -68,5 +70,20 @@ I use AI as a development tool to accelerate workflows while keeping full contro
 
 ## 📌 Projects
 
-Check my pinned repositories to explore backend systems, automation tools, and fullstack applications.
+Check out my pinned repositories featuring:
 
+- 🚀 Production-ready backend systems
+- 💰 Fullstack expense tracking applications
+- ⚡ Automation and developer tools
+- 🧩 API-focused projects built with NestJS
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you like my work, consider following me or checking out my pinned repositories.
+
+</div>
